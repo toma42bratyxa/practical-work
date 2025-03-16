@@ -13,5 +13,3 @@
 ```bash-
 git remote add origin https://github.com/toma42bratyxa/git-guide
 ```
-
-fddd
