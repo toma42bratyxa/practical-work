@@ -6,10 +6,11 @@
 
 ---
 
+## Основные команды *GIT*
+
 
  ### Содержание:
 
- ## Основные команды *GIT*
  1. [git config](./config.md)
  2. [git init](./init.md)
  3. [git add](./add.md)
@@ -21,7 +22,10 @@
  9. [git remote add](./remote.md)
  10. [git fetch](./fetch.md)
  11. [git merge](./merge.md)
- 12. 
+ 12. [git log](./log.md)
+ 13. [git show [хэш]](./show.md) 
+ 14. [git branch [наименование]](./branch.md)
+ 15. [git checkout [наименование]](./checkout.md)
 
 
 ---
