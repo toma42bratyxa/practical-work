@@ -2,7 +2,7 @@
 
  LICENSE:[MIT](./lecense.md)
 
-![git-logo](./assets/Git-logo.svg.png)
+![git-logo][def2]
 
 ---
 
@@ -36,3 +36,4 @@ license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1
 
 
 [def]: ./status.md
+[def2]: ./assets/Git-logo.svg.png
